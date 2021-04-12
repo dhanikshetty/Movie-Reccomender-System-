@@ -1,4 +1,4 @@
-# BigData-For-Movies
+# Movie Reccomender System with ALS collaborative filtering
 
 In the current world, movies serve as a remarkably interesting topic of study as it is a major part of the lives of the majority of people in the world. Performing analysis on 
 the dataset for movies can be used to grab a lot of insights on the movie trends and how the industry can improve their marketing strategies based on time of release, genre, 
